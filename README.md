@@ -5,12 +5,12 @@
   
 
 
-Адрес репозитория:
+Адрес репозитория: https://github.com/Macintosh689/react-mesto-api-full-gha.git
 
 ## Ссылки на проект
 
-IP-адрес x.x.x.x
+IP-адрес 158.160.114.143
 
-Frontend https://...
+Frontend https://macintosh689.nomoredomains.work
 
-Backend https://...
+Backend https://api.macintosh689.nomoredomains.work
