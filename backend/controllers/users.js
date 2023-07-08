@@ -39,10 +39,7 @@ module.exports.createUser = (req, res, next) => {
 module.exports.getUsers = (req, res, next) => {
   User.find({})
     .then((user) => {
-      if (!user) {
-        throw new NotFoundError('пользователь не найден.');
-      }
-      return res.send(user);
+    return res.send(user);
     })
     .catch(next);
 };
